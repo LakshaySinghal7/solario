@@ -32,4 +32,4 @@ To run Solario, you just need to:
 
 ## Creator
 
-Zhenyu Liang
+Kopal Sharma
